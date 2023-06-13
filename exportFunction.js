@@ -1,4 +1,4 @@
 const display = () => {
-  return "This is a function";
+  return "This is a Function";
 };
 module.exports = display;
